@@ -26,7 +26,6 @@
 							<div class="form-group">
 						    <label for="folder">Folder URI (file path)</label>
 						    <input type="text" id="folder" name="folder" class="form-control" placeholder="folder file path URL" value="<?php echo old('folder'); ?>">
-						    <span class="help-block">always add asterix</span>
 						  </div>
 						</div>
 						<div class="col-md-12">
